@@ -1,0 +1,5 @@
+name: SteakGUIPlugin
+version: 1.0
+main: SteakGUIPlugin
+loadbefore: [SteakGUI]
+depend: [SteakGUI]

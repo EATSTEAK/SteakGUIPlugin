@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SteakGUIPlugin">
+    <output-path>D:/Test Servers/1.8.x/plugins</output-path>
+    <root id="archive" name="SteakGUIPlugin.jar">
+      <element id="module-output" name="SteakGUIPlugin" />
+    </root>
+  </artifact>
+</component>
